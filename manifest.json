@@ -1,0 +1,14 @@
+{
+  "short_name": "Eric",
+  "name": "Athaariq A.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#795548",
+  "background_color": "#ffffff"
+}
